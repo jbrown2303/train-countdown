@@ -1,0 +1,4 @@
+# 🚆 Train Countdown App
+
+A Streamlit web app that shows UK train services and provides a 5-minute countdown to departure.  
+Powered by the National Rail Darwin LDBWS feed.
